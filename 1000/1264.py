@@ -1,4 +1,4 @@
-while True:
+while True: 
     sentence = input()
     count = 0
     if sentence == '#':
